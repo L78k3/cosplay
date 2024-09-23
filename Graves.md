@@ -5,7 +5,7 @@
 ![[Untitled.jpg]]
 
 
-!(Pasted image 20240923201805.png)
+!(./extras/Pasted image 20240923201805.png)
 
 
 https://modelviewer.lol/model-viewer?id=104000
