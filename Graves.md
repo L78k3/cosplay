@@ -14,3 +14,9 @@
 
 https://modelviewer.lol/model-viewer?id=104000
 
+Some different models:
+
+![[graves.glb]]
+
+![[graves.stl]]
+
