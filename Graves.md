@@ -5,7 +5,7 @@
 ![[Untitled.jpg]]
 
 
-!(./extras/Pasted image 20240923201805.png)
+![Yeet](".\extras\Pasted image 20240923201805.png")
 
 
 https://modelviewer.lol/model-viewer?id=104000
